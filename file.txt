@@ -7,4 +7,4 @@ six 6
 seven 7
 eight
 nine
-ten
+ten 10
